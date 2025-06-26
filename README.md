@@ -2,8 +2,10 @@
 
 ###
 
+<img align="right" height="125" src="https://media1.tenor.com/m/1EdlGzkwMLsAAAAC/evil-laugh-rub-hands.gif"  />
+
 <div align="center">
-  <img height="125" src="https://media.licdn.com/dms/image/v2/D4D35AQHTpS5q3plvjg/profile-framedphoto-shrink_400_400/profile-framedphoto-shrink_400_400/0/1730271348492?e=1751518800&v=beta&t=r0QFjhWeBYKQ2e0_r1Tt0WBSZQlbtZschmYXJ-nlOjw"  />
+  <img height="125" src="https://instagram.fjog3-1.fna.fbcdn.net/v/t51.2885-19/511518936_18207317866307811_276019702037792698_n.jpg?_nc_ht=instagram.fjog3-1.fna.fbcdn.net&_nc_cat=103&_nc_oc=Q6cZ2QF62zMsx8g8rsD8fTnOSp-on8wuTVaDYKApWNTJqs5f6ngNpTqpE0aQDU_nltdJxZY&_nc_ohc=dMok_8i3qg4Q7kNvwFntG33&_nc_gid=DbOm3gmnCDjjI4tCUbm5pQ&edm=ALGbJPMBAAAA&ccb=7-5&oh=00_AfNeHp1zQFbPQXWMGvVRh_gy6JGZF3PNYUBxvWaHbokWvg&oe=68629CD2&_nc_sid=7d3ac5"  />
 </div>
 
 <div align="center">
@@ -117,7 +119,7 @@
 
 <div align="center">
   <a href="https://open.spotify.com/user/Yoyoo">
-    <img src="![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=0xbqmwkj1e4ihym7kugk62840&count={4})" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=0xbqmwkj1e4ihym7kugk62840" alt="Spotify recently played"  />
   </a>
 </div>
 
